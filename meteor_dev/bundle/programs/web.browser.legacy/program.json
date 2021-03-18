@@ -1,0 +1,1067 @@
+{
+  "format": "web-program-pre1",
+  "manifest": [
+    {
+      "path": "0b8e5837c9eb3f4c882f4ac01c77d3310b20696d.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/0b8e5837c9eb3f4c882f4ac01c77d3310b20696d.js?meteor_js_resource=true",
+      "size": 740180,
+      "hash": "0b8e5837c9eb3f4c882f4ac01c77d3310b20696d",
+      "sri": "05qQ6tC3ZArkbNHMIRJCNBj13thkI0eU9+cgsidqAJeacx4pVbLwWlYpMCG1VbIWHmzGX/iP96arL5jiy0Tbaw=="
+    },
+    {
+      "path": "0b8e5837c9eb3f4c882f4ac01c77d3310b20696d.stats.json",
+      "where": "client",
+      "type": "json",
+      "cacheable": true,
+      "url": "/0b8e5837c9eb3f4c882f4ac01c77d3310b20696d.stats.json?meteor_js_resource=true",
+      "size": 36938,
+      "hash": "202fe8f9638a7ef12298f359fd06989e9367523e",
+      "sri": "7SZUf8XO/z2BFQJ+Djl0DsWiKSWNq1K4W+szencaSj0KfdYMNsDBcqLn/wU9mTOQOFnJr/31zlWT2/TCcgfq3A=="
+    },
+    {
+      "path": "5698c061cfba32badc3285de664514e3f4c25d8b.css",
+      "where": "client",
+      "type": "css",
+      "cacheable": true,
+      "url": "/5698c061cfba32badc3285de664514e3f4c25d8b.css?meteor_css_resource=true",
+      "size": 19000,
+      "hash": "5698c061cfba32badc3285de664514e3f4c25d8b",
+      "sri": "Q0TeAhLlz0M7sm7wfcvqtILMvSHpKFfM0/LJnQa8wwkNDkANUFR21C1s8S5kgwyasbpyWzNL7RGYTOMO8Gan+w=="
+    },
+    {
+      "path": "app/compatibility/adapter.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/compatibility/adapter.js",
+      "size": 192415,
+      "hash": "e0857f5bc8743b31fa995c2a6d4a4de465519fe2",
+      "sri": null
+    },
+    {
+      "path": "app/compatibility/kurento-utils.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/compatibility/kurento-utils.js",
+      "size": 158803,
+      "hash": "6ec99ff8266b58a84c26d9a7c5f9d3fc30171199",
+      "sri": null
+    },
+    {
+      "path": "app/compatibility/sip.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/compatibility/sip.js",
+      "size": 1014344,
+      "hash": "4e7377e2d67b68c0b36b5e787a561822a991747d",
+      "sri": null
+    },
+    {
+      "path": "app/locales/ar.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/locales/ar.json",
+      "size": 61219,
+      "hash": "ae334fbd8f01bbe1b1e8058a6f8e53dc68075179",
+      "sri": null
+    },
+    {
+      "path": "app/locales/az.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/locales/az.json",
+      "size": 53153,
+      "hash": "957a0a291877a8faf0f75f5234a234424c8d41ae",
+      "sri": null
+    },
+    {
+      "path": "app/locales/bg_BG.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/locales/bg_BG.json",
+      "size": 59525,
+      "hash": "b2e865b2f55245eeed17ad2b1702afddcad193a2",
+      "sri": null
+    },
+    {
+      "path": "app/locales/ca.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/locales/ca.json",
+      "size": 51771,
+      "hash": "ff10a931bc066eedc1df41debb141aa3583bd5e3",
+      "sri": null
+    },
+    {
+      "path": "app/locales/cs_CZ.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/locales/cs_CZ.json",
+      "size": 48187,
+      "hash": "69df163697b26ff4f7b120043c0377bd040d22a6",
+      "sri": null
+    },
+    {
+      "path": "app/locales/da.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/locales/da.json",
+      "size": 49400,
+      "hash": "bf1f85cc067b9469a42beffd79524de4b7d368a0",
+      "sri": null
+    },
+    {
+      "path": "app/locales/de.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/locales/de.json",
+      "size": 56140,
+      "hash": "a7512c3660ca870a2c64991dca7f3366625406f2",
+      "sri": null
+    },
+    {
+      "path": "app/locales/el_GR.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/locales/el_GR.json",
+      "size": 69551,
+      "hash": "2951f63973b065b5d1ef4cd89e0beb0093e798b4",
+      "sri": null
+    },
+    {
+      "path": "app/locales/en.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/locales/en.json",
+      "size": 53363,
+      "hash": "ad85fda837953e8bf1658d62323855eb45c287f3",
+      "sri": null
+    },
+    {
+      "path": "app/locales/eo.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/locales/eo.json",
+      "size": 48676,
+      "hash": "f4834a234e541293ec6cd0ce76ff53b181f07486",
+      "sri": null
+    },
+    {
+      "path": "app/locales/es.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/locales/es.json",
+      "size": 53554,
+      "hash": "d870a022180fcc12a176c9639811f2780d1838bd",
+      "sri": null
+    },
+    {
+      "path": "app/locales/es_ES.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/locales/es_ES.json",
+      "size": 54153,
+      "hash": "d03546545ff3b76616518b76d93294eca06915af",
+      "sri": null
+    },
+    {
+      "path": "app/locales/es_MX.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/locales/es_MX.json",
+      "size": 32370,
+      "hash": "eca10102f9dd41d308019fad35512537f17ed001",
+      "sri": null
+    },
+    {
+      "path": "app/locales/et.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/locales/et.json",
+      "size": 47168,
+      "hash": "c615fa2e831635602b43a0e8e105f1588b94526e",
+      "sri": null
+    },
+    {
+      "path": "app/locales/eu.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/locales/eu.json",
+      "size": 47138,
+      "hash": "1a5576d0691775de22103a424c9b7ee42ef3c030",
+      "sri": null
+    },
+    {
+      "path": "app/locales/fa_IR.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/locales/fa_IR.json",
+      "size": 67851,
+      "hash": "7d41097ded08999379de0fe2908b56c5d90e0fda",
+      "sri": null
+    },
+    {
+      "path": "app/locales/fi.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/locales/fi.json",
+      "size": 37780,
+      "hash": "d79610ef565bcb292ddac7830ac2336bbbe2045f",
+      "sri": null
+    },
+    {
+      "path": "app/locales/fr.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/locales/fr.json",
+      "size": 58001,
+      "hash": "045b1ef97dc700ec1d73ed8127d8278a1c71083c",
+      "sri": null
+    },
+    {
+      "path": "app/locales/gl.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/locales/gl.json",
+      "size": 56895,
+      "hash": "9ab6dafc79f3f73928789c9f45ea9515d63f9c4d",
+      "sri": null
+    },
+    {
+      "path": "app/locales/he.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/locales/he.json",
+      "size": 47329,
+      "hash": "b4c2e4c2f69ef6f0b1329a694997419fd4cbd985",
+      "sri": null
+    },
+    {
+      "path": "app/locales/hi_IN.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/locales/hi_IN.json",
+      "size": 52279,
+      "hash": "28d499ef6d790dde2f3e1b650bae3d0198131a27",
+      "sri": null
+    },
+    {
+      "path": "app/locales/hr.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/locales/hr.json",
+      "size": 16350,
+      "hash": "f3ad762bbe84318ac63c054b9704144c7cd97f7e",
+      "sri": null
+    },
+    {
+      "path": "app/locales/hu_HU.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/locales/hu_HU.json",
+      "size": 52025,
+      "hash": "d6c2572e1ed76c265a580af1acf3e47ef89b00f1",
+      "sri": null
+    },
+    {
+      "path": "app/locales/hy.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/locales/hy.json",
+      "size": 3513,
+      "hash": "d16a933cba5ed712ddcd4de0affb8661b3e8461b",
+      "sri": null
+    },
+    {
+      "path": "app/locales/id.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/locales/id.json",
+      "size": 45971,
+      "hash": "5fd8e9d5c86f15fd7db675a957bf1ae64c1152b2",
+      "sri": null
+    },
+    {
+      "path": "app/locales/it_IT.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/locales/it_IT.json",
+      "size": 51440,
+      "hash": "ee084110ca4afbb25cd31dc7d1a44aa0223b9f49",
+      "sri": null
+    },
+    {
+      "path": "app/locales/ja.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/locales/ja.json",
+      "size": 59734,
+      "hash": "97c83075b612c016b9f505b215b52a1e14294321",
+      "sri": null
+    },
+    {
+      "path": "app/locales/ka.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/locales/ka.json",
+      "size": 77013,
+      "hash": "c5401020bc70f25d91fe0c3786734d3f837c88a3",
+      "sri": null
+    },
+    {
+      "path": "app/locales/kk.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/locales/kk.json",
+      "size": 277,
+      "hash": "89b121437f0c78b9cc861893a2ab8838fa33cd9a",
+      "sri": null
+    },
+    {
+      "path": "app/locales/km.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/locales/km.json",
+      "size": 64852,
+      "hash": "89f3259089eb3af03de37ae77341be585d33997d",
+      "sri": null
+    },
+    {
+      "path": "app/locales/kn.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/locales/kn.json",
+      "size": 80561,
+      "hash": "4889d5d41d3b4bdfe8e0a8eff5ee369986c7d18e",
+      "sri": null
+    },
+    {
+      "path": "app/locales/ko_KR.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/locales/ko_KR.json",
+      "size": 50731,
+      "hash": "9749a8043ccdbb568925079e852cb9a996c76168",
+      "sri": null
+    },
+    {
+      "path": "app/locales/lo_LA.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/locales/lo_LA.json",
+      "size": 3446,
+      "hash": "6da59beec7d3f236b95b65977e9b9b5486bd3823",
+      "sri": null
+    },
+    {
+      "path": "app/locales/lt_LT.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/locales/lt_LT.json",
+      "size": 48731,
+      "hash": "16f180f15912bfd4e3e3938f594d333537a6e6d9",
+      "sri": null
+    },
+    {
+      "path": "app/locales/lv.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/locales/lv.json",
+      "size": 48087,
+      "hash": "6e68bae63c53fd571486dc265f1be80cb38d8dc0",
+      "sri": null
+    },
+    {
+      "path": "app/locales/mn_MN.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/locales/mn_MN.json",
+      "size": 106,
+      "hash": "d613a900b8e6f774db9b7bf1bf75b0b2305d5ee5",
+      "sri": null
+    },
+    {
+      "path": "app/locales/nb_NO.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/locales/nb_NO.json",
+      "size": 44655,
+      "hash": "31996cbed68d159e8ac8d786d73ad30822481ce3",
+      "sri": null
+    },
+    {
+      "path": "app/locales/nl.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/locales/nl.json",
+      "size": 52479,
+      "hash": "2354e29d6629187a4b7e6fde3ee894949769a270",
+      "sri": null
+    },
+    {
+      "path": "app/locales/oc.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/locales/oc.json",
+      "size": 14234,
+      "hash": "af04903c00a9bb0ac221c59c086e63a7ce211214",
+      "sri": null
+    },
+    {
+      "path": "app/locales/pl_PL.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/locales/pl_PL.json",
+      "size": 46316,
+      "hash": "6e62b894cd0361045fcbc5e0b9d84d578f66d75e",
+      "sri": null
+    },
+    {
+      "path": "app/locales/pt.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/locales/pt.json",
+      "size": 53143,
+      "hash": "95d88ca72e714a393398cd601ddb6564071f142e",
+      "sri": null
+    },
+    {
+      "path": "app/locales/pt_BR.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/locales/pt_BR.json",
+      "size": 47560,
+      "hash": "1a8dea51fe9465a9b2e0e462e53ad60f0ae63f92",
+      "sri": null
+    },
+    {
+      "path": "app/locales/ro_RO.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/locales/ro_RO.json",
+      "size": 43226,
+      "hash": "334a3de4dc29ada2ec9efbc6f47f250efd071f54",
+      "sri": null
+    },
+    {
+      "path": "app/locales/ru.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/locales/ru.json",
+      "size": 63971,
+      "hash": "751ba2c0a2784a877c11b7d4f3a317377b78466a",
+      "sri": null
+    },
+    {
+      "path": "app/locales/ru_RU.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/locales/ru_RU.json",
+      "size": 66908,
+      "hash": "cf8429560f4c38ec14bfc9be08bf266e8200dfc3",
+      "sri": null
+    },
+    {
+      "path": "app/locales/sk_SK.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/locales/sk_SK.json",
+      "size": 47597,
+      "hash": "705397df99008c6a58337a178a9f26ef5de935ff",
+      "sri": null
+    },
+    {
+      "path": "app/locales/sl.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/locales/sl.json",
+      "size": 51303,
+      "hash": "afd16971304e7231cfc0462640d58ffe7303ec52",
+      "sri": null
+    },
+    {
+      "path": "app/locales/sr.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/locales/sr.json",
+      "size": 47334,
+      "hash": "5c9c33af62c0a67de042f23c1de7f73a3b693606",
+      "sri": null
+    },
+    {
+      "path": "app/locales/sv_SE.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/locales/sv_SE.json",
+      "size": 41574,
+      "hash": "73726a7697ca86a4cddb1ddd3a5d2069b5f8c36d",
+      "sri": null
+    },
+    {
+      "path": "app/locales/te.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/locales/te.json",
+      "size": 84751,
+      "hash": "70f40695bfb36f738ec1b510dd4e1de93f821233",
+      "sri": null
+    },
+    {
+      "path": "app/locales/th.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/locales/th.json",
+      "size": 65382,
+      "hash": "c7ffd623f3ec22f08d70333f008497506d56aaf6",
+      "sri": null
+    },
+    {
+      "path": "app/locales/th_TH.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/locales/th_TH.json",
+      "size": 64630,
+      "hash": "886914634145b971c30e6eebbd7b3a4a91d26077",
+      "sri": null
+    },
+    {
+      "path": "app/locales/tr.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/locales/tr.json",
+      "size": 51515,
+      "hash": "0288614d850581716e35bafd7cddddeb84040faf",
+      "sri": null
+    },
+    {
+      "path": "app/locales/tr_TR.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/locales/tr_TR.json",
+      "size": 53829,
+      "hash": "44b057e5520a53537dd1a612a53f65f43cb5f3ea",
+      "sri": null
+    },
+    {
+      "path": "app/locales/uk_UA.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/locales/uk_UA.json",
+      "size": 69251,
+      "hash": "e1d75e2b1ce688f456b5897c056b471f62aa29cb",
+      "sri": null
+    },
+    {
+      "path": "app/locales/vi.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/locales/vi.json",
+      "size": 6540,
+      "hash": "461a22e003e3237c728119f1d1c3482c8b4ca9ed",
+      "sri": null
+    },
+    {
+      "path": "app/locales/vi_VN.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/locales/vi_VN.json",
+      "size": 47410,
+      "hash": "7ebbe699414a2f32c5b396d8d6e2907853405c7c",
+      "sri": null
+    },
+    {
+      "path": "app/locales/zh_CN.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/locales/zh_CN.json",
+      "size": 46408,
+      "hash": "0c20d852d1ef2469f128cb8d77c8a249104ad8a2",
+      "sri": null
+    },
+    {
+      "path": "app/locales/zh_TW.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/locales/zh_TW.json",
+      "size": 45933,
+      "hash": "953b6a4ae1e00924af033c8cbb9c6f3d40c29535",
+      "sri": null
+    },
+    {
+      "path": "app/svgs/bbb_audio_icon.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/svgs/bbb_audio_icon.svg",
+      "size": 1242,
+      "hash": "4994ba5c56e3b62a184d4b64fe08b3a59ff88d23",
+      "sri": null
+    },
+    {
+      "path": "app/svgs/bbb_headphones_icon.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/svgs/bbb_headphones_icon.svg",
+      "size": 806,
+      "hash": "c1bc85cb6e6be99382ac37770363d2d7f90fc653",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/BbbIcons/bbb-icons.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/BbbIcons/bbb-icons.woff",
+      "size": 16556,
+      "hash": "449660ddd3b519df972e7f3b69a8f5890d112b61",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/SourceSansPro/OFL.txt",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/SourceSansPro/OFL.txt",
+      "size": 4486,
+      "hash": "8b883667e4223cfdac88457446d95e253b7c6484",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/SourceSansPro/SourceSansPro-Bold.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/SourceSansPro/SourceSansPro-Bold.woff",
+      "size": 151868,
+      "hash": "cc9840c9e76024064a72abd5a593c95f3c288cb3",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/SourceSansPro/SourceSansPro-BoldItalic.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/SourceSansPro/SourceSansPro-BoldItalic.woff",
+      "size": 117964,
+      "hash": "00c198321cc8073c3b680cbb8e0aea1be1206720",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/SourceSansPro/SourceSansPro-Italic.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/SourceSansPro/SourceSansPro-Italic.woff",
+      "size": 115924,
+      "hash": "17797434aecbca2753175206bbe5fbb0f215382b",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/SourceSansPro/SourceSansPro-Light.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/SourceSansPro/SourceSansPro-Light.woff",
+      "size": 146020,
+      "hash": "4911b8461e24a8602daf5e0a8a08d11e653b0f3f",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/SourceSansPro/SourceSansPro-LightItalic.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/SourceSansPro/SourceSansPro-LightItalic.woff",
+      "size": 113140,
+      "hash": "8df5efd5688eac567d6fd55174bb83d2e32c4849",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/SourceSansPro/SourceSansPro-Regular.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/SourceSansPro/SourceSansPro-Regular.woff",
+      "size": 148620,
+      "hash": "248bfeaa58d78b117d737be3c37977ac1bc3b90e",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/SourceSansPro/SourceSansPro-Semibold.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/SourceSansPro/SourceSansPro-Semibold.woff",
+      "size": 150320,
+      "hash": "b93e7509b8cf22deeb6007d2ab6e0837a54e81f1",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/SourceSansPro/SourceSansPro-SemiboldItalic.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/SourceSansPro/SourceSansPro-SemiboldItalic.woff",
+      "size": 116848,
+      "hash": "9239b2d9f20078c6b28afd4986a715c608dabfe1",
+      "sri": null
+    },
+    {
+      "path": "app/resources/images/allow-mic.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/resources/images/allow-mic.png",
+      "size": 7880,
+      "hash": "f9cc7d2ec9ca4ea5f9779a1384497600eb969fcc",
+      "sri": null
+    },
+    {
+      "path": "app/resources/images/avatar.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/resources/images/avatar.png",
+      "size": 14417,
+      "hash": "23ed8a5dca0d4a699970c13c9931aeb71871ef88",
+      "sri": null
+    },
+    {
+      "path": "app/resources/sounds/LeftCall.mp3",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/resources/sounds/LeftCall.mp3",
+      "size": 20257,
+      "hash": "6f9eaa330a8e2165d02ab89e08a1d02b0750099b",
+      "sri": null
+    },
+    {
+      "path": "app/resources/sounds/Poll.mp3",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/resources/sounds/Poll.mp3",
+      "size": 28338,
+      "hash": "2e7aebc29a5dc46328ad7f5f413b7ec079be5c44",
+      "sri": null
+    },
+    {
+      "path": "app/resources/sounds/ScreenshareOff.mp3",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/resources/sounds/ScreenshareOff.mp3",
+      "size": 40805,
+      "hash": "f7c3461a0f9ceed8ff4c6a96da71ed27460ebf63",
+      "sri": null
+    },
+    {
+      "path": "app/resources/sounds/audioSample.mp3",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/resources/sounds/audioSample.mp3",
+      "size": 43885,
+      "hash": "34e58acd503c6a63c86ae36bfd1f69a571365876",
+      "sri": null
+    },
+    {
+      "path": "app/resources/sounds/bbb-handRaise.mp3",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/resources/sounds/bbb-handRaise.mp3",
+      "size": 6975,
+      "hash": "17b52af06c4a5a5fb2a4b7578aa02ec177d52c4a",
+      "sri": null
+    },
+    {
+      "path": "app/resources/sounds/doorbell.mp3",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/resources/sounds/doorbell.mp3",
+      "size": 12072,
+      "hash": "4f57dc57722cc090cd2d18620e209b6bcd59d4fe",
+      "sri": null
+    },
+    {
+      "path": "app/resources/sounds/notify.mp3",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/resources/sounds/notify.mp3",
+      "size": 10702,
+      "hash": "06203e902b10bce5ce29ab4e63c3f134a54fa5ed",
+      "sri": null
+    },
+    {
+      "path": "app/resources/sounds/userJoin.mp3",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/resources/sounds/userJoin.mp3",
+      "size": 10702,
+      "hash": "06203e902b10bce5ce29ab4e63c3f134a54fa5ed",
+      "sri": null
+    },
+    {
+      "path": "app/resources/images/video-menu/icon-swap.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/resources/images/video-menu/icon-swap.svg",
+      "size": 3551,
+      "hash": "20d171aa21e17aee0edd8f06bb07278311038e1f",
+      "sri": null
+    },
+    {
+      "path": "app/resources/images/video-menu/icon-webcam-off.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/resources/images/video-menu/icon-webcam-off.svg",
+      "size": 2173,
+      "hash": "450e0ee0d663b724e7dbd921dd53424a0ab49917",
+      "sri": null
+    },
+    {
+      "path": "app/resources/images/whiteboard-cursor/ellipse.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/resources/images/whiteboard-cursor/ellipse.png",
+      "size": 926,
+      "hash": "0623a6e4204e7698c0e7513f22bf624d1d7a3c48",
+      "sri": null
+    },
+    {
+      "path": "app/resources/images/whiteboard-cursor/ellipse.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/resources/images/whiteboard-cursor/ellipse.svg",
+      "size": 3583,
+      "hash": "dfd37be48ccfefc9192155f8c637a28f33eaa286",
+      "sri": null
+    },
+    {
+      "path": "app/resources/images/whiteboard-cursor/line.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/resources/images/whiteboard-cursor/line.png",
+      "size": 336,
+      "hash": "1c7830e549b46530dcabec24cfb41e1c83ccf445",
+      "sri": null
+    },
+    {
+      "path": "app/resources/images/whiteboard-cursor/line.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/resources/images/whiteboard-cursor/line.svg",
+      "size": 3665,
+      "hash": "869b4ebd67c9d980ef816a8fbad7c6dce08ae664",
+      "sri": null
+    },
+    {
+      "path": "app/resources/images/whiteboard-cursor/pan-closed.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/resources/images/whiteboard-cursor/pan-closed.png",
+      "size": 605,
+      "hash": "cb2e6f5dbb70704ae77f202ea05704f74a541f2e",
+      "sri": null
+    },
+    {
+      "path": "app/resources/images/whiteboard-cursor/pan-closed.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/resources/images/whiteboard-cursor/pan-closed.svg",
+      "size": 2843,
+      "hash": "b06e98de1799f9cf0ed3403633e486f7d00be7cb",
+      "sri": null
+    },
+    {
+      "path": "app/resources/images/whiteboard-cursor/pan.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/resources/images/whiteboard-cursor/pan.png",
+      "size": 919,
+      "hash": "0d995965001c2c46448fa323edd29725cc73cae4",
+      "sri": null
+    },
+    {
+      "path": "app/resources/images/whiteboard-cursor/pan.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/resources/images/whiteboard-cursor/pan.svg",
+      "size": 1493,
+      "hash": "86e4d29c89203ba26cd061305795e467b5baa3f1",
+      "sri": null
+    },
+    {
+      "path": "app/resources/images/whiteboard-cursor/pencil.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/resources/images/whiteboard-cursor/pencil.png",
+      "size": 850,
+      "hash": "a4a72af3efeb0993e29ffd5a928e8c083c01d8eb",
+      "sri": null
+    },
+    {
+      "path": "app/resources/images/whiteboard-cursor/pencil.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/resources/images/whiteboard-cursor/pencil.svg",
+      "size": 6791,
+      "hash": "87c25f73427e655f107e7a71e126349dc2144776",
+      "sri": null
+    },
+    {
+      "path": "app/resources/images/whiteboard-cursor/square.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/resources/images/whiteboard-cursor/square.png",
+      "size": 345,
+      "hash": "bab7ee3e77cdadacae5307251a03888f80e05da5",
+      "sri": null
+    },
+    {
+      "path": "app/resources/images/whiteboard-cursor/square.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/resources/images/whiteboard-cursor/square.svg",
+      "size": 3564,
+      "hash": "7d0218eb8bbd5a830faa3617bc5d0ea014ee52c7",
+      "sri": null
+    },
+    {
+      "path": "app/resources/images/whiteboard-cursor/text.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/resources/images/whiteboard-cursor/text.png",
+      "size": 621,
+      "hash": "a221539b67014adb77fb44ccb7aba7b685aae907",
+      "sri": null
+    },
+    {
+      "path": "app/resources/images/whiteboard-cursor/text.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/resources/images/whiteboard-cursor/text.svg",
+      "size": 9397,
+      "hash": "88fd3bd12e9802804fa03cbdf9aecc3b89197c97",
+      "sri": null
+    },
+    {
+      "path": "app/resources/images/whiteboard-cursor/triangle.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/resources/images/whiteboard-cursor/triangle.png",
+      "size": 939,
+      "hash": "3a43a08c457c522704265019fe7cacdab2de419b",
+      "sri": null
+    },
+    {
+      "path": "app/resources/images/whiteboard-cursor/triangle.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/resources/images/whiteboard-cursor/triangle.svg",
+      "size": 3633,
+      "hash": "e5a4e10cc4fbb331dd0530883b500291c460e484",
+      "sri": null
+    },
+    {
+      "path": "head.html",
+      "where": "internal",
+      "type": "head",
+      "hash": "a75a61214618d26c2d787079657e09e151a92900"
+    },
+    {
+      "path": "body.html",
+      "where": "internal",
+      "type": "body",
+      "hash": "b4c3e8f282328bd368d0f8fb010210ac5d75f689"
+    }
+  ]
+}

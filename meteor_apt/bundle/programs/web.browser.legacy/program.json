@@ -1,0 +1,467 @@
+{
+  "format": "web-program-pre1",
+  "manifest": [
+    {
+      "path": "cd57d9203e5f221291fccee0eeed6cc2e7211ac7.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/cd57d9203e5f221291fccee0eeed6cc2e7211ac7.js?meteor_js_resource=true",
+      "size": 673833,
+      "hash": "cd57d9203e5f221291fccee0eeed6cc2e7211ac7",
+      "sri": "ADACOKIb6WxDHc1/BSWYXR3FfXSSjkGcqI2Wv5zai2181nz9ICb9jB8O9Gx0FCqZauu5o99EhOXfJb569Ba8+w=="
+    },
+    {
+      "path": "cd57d9203e5f221291fccee0eeed6cc2e7211ac7.stats.json",
+      "where": "client",
+      "type": "json",
+      "cacheable": true,
+      "url": "/cd57d9203e5f221291fccee0eeed6cc2e7211ac7.stats.json?meteor_js_resource=true",
+      "size": 28710,
+      "hash": "ea3cc2fc7b4de793b6e5865a9a3bc54bed919711",
+      "sri": "JK7S4UbZr6VXAckRgpF9PuIQwojMPyjZ7IWX/0Zp7qTfOWsFHC75bQl5pR3JHnoGImu08dbBYTnBKqe+sF790A=="
+    },
+    {
+      "path": "a37076bd6d954581e8b3448555d0abcda6c42bf0.css",
+      "where": "client",
+      "type": "css",
+      "cacheable": true,
+      "url": "/a37076bd6d954581e8b3448555d0abcda6c42bf0.css?meteor_css_resource=true",
+      "size": 18961,
+      "hash": "a37076bd6d954581e8b3448555d0abcda6c42bf0",
+      "sri": "BS4+7HqXNyIaotM0rBd91OZJ8UpXr694FtQGmOtgdzjDTKdjcPhpp4gI6+3w4W2mk28rcoh5qgUmGVMsJujGmQ=="
+    },
+    {
+      "path": "app/compatibility/adapter.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/compatibility/adapter.js",
+      "size": 192415,
+      "hash": "e0857f5bc8743b31fa995c2a6d4a4de465519fe2",
+      "sri": null
+    },
+    {
+      "path": "app/compatibility/kurento-extension.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/compatibility/kurento-extension.js",
+      "size": 29155,
+      "hash": "88ec0c6e2bd4ee6cb0c823960af83092f27d3ab3",
+      "sri": null
+    },
+    {
+      "path": "app/compatibility/kurento-utils.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/compatibility/kurento-utils.js",
+      "size": 158803,
+      "hash": "6ec99ff8266b58a84c26d9a7c5f9d3fc30171199",
+      "sri": null
+    },
+    {
+      "path": "app/compatibility/sip.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/compatibility/sip.js",
+      "size": 1014342,
+      "hash": "0690818a94ecf7a01560ace90bc6f007d30711cb",
+      "sri": null
+    },
+    {
+      "path": "app/svgs/bbb_audio_icon.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/svgs/bbb_audio_icon.svg",
+      "size": 1242,
+      "hash": "4994ba5c56e3b62a184d4b64fe08b3a59ff88d23",
+      "sri": null
+    },
+    {
+      "path": "app/svgs/bbb_headphones_icon.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/svgs/bbb_headphones_icon.svg",
+      "size": 806,
+      "hash": "c1bc85cb6e6be99382ac37770363d2d7f90fc653",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/BbbIcons/bbb-icons.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/BbbIcons/bbb-icons.woff",
+      "size": 16328,
+      "hash": "03f3b6207dfe57ecd05a2b002f0a895f5288e5a9",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/SourceSansPro/OFL.txt",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/SourceSansPro/OFL.txt",
+      "size": 4579,
+      "hash": "fda9df8730d218558e2e93d74f2fb88ab3ac7b27",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/SourceSansPro/SourceSansPro-Bold.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/SourceSansPro/SourceSansPro-Bold.woff",
+      "size": 151868,
+      "hash": "cc9840c9e76024064a72abd5a593c95f3c288cb3",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/SourceSansPro/SourceSansPro-BoldItalic.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/SourceSansPro/SourceSansPro-BoldItalic.woff",
+      "size": 117964,
+      "hash": "00c198321cc8073c3b680cbb8e0aea1be1206720",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/SourceSansPro/SourceSansPro-Italic.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/SourceSansPro/SourceSansPro-Italic.woff",
+      "size": 115924,
+      "hash": "17797434aecbca2753175206bbe5fbb0f215382b",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/SourceSansPro/SourceSansPro-Light.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/SourceSansPro/SourceSansPro-Light.woff",
+      "size": 146020,
+      "hash": "4911b8461e24a8602daf5e0a8a08d11e653b0f3f",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/SourceSansPro/SourceSansPro-LightItalic.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/SourceSansPro/SourceSansPro-LightItalic.woff",
+      "size": 113140,
+      "hash": "8df5efd5688eac567d6fd55174bb83d2e32c4849",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/SourceSansPro/SourceSansPro-Regular.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/SourceSansPro/SourceSansPro-Regular.woff",
+      "size": 148620,
+      "hash": "248bfeaa58d78b117d737be3c37977ac1bc3b90e",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/SourceSansPro/SourceSansPro-Semibold.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/SourceSansPro/SourceSansPro-Semibold.woff",
+      "size": 150320,
+      "hash": "b93e7509b8cf22deeb6007d2ab6e0837a54e81f1",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/SourceSansPro/SourceSansPro-SemiboldItalic.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/SourceSansPro/SourceSansPro-SemiboldItalic.woff",
+      "size": 116848,
+      "hash": "9239b2d9f20078c6b28afd4986a715c608dabfe1",
+      "sri": null
+    },
+    {
+      "path": "app/resources/images/allow-mic.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/resources/images/allow-mic.png",
+      "size": 7880,
+      "hash": "f9cc7d2ec9ca4ea5f9779a1384497600eb969fcc",
+      "sri": null
+    },
+    {
+      "path": "app/resources/sounds/LeftCall.mp3",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/resources/sounds/LeftCall.mp3",
+      "size": 20257,
+      "hash": "6f9eaa330a8e2165d02ab89e08a1d02b0750099b",
+      "sri": null
+    },
+    {
+      "path": "app/resources/sounds/Poll.mp3",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/resources/sounds/Poll.mp3",
+      "size": 28338,
+      "hash": "2e7aebc29a5dc46328ad7f5f413b7ec079be5c44",
+      "sri": null
+    },
+    {
+      "path": "app/resources/sounds/ScreenshareOff.mp3",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/resources/sounds/ScreenshareOff.mp3",
+      "size": 40805,
+      "hash": "f7c3461a0f9ceed8ff4c6a96da71ed27460ebf63",
+      "sri": null
+    },
+    {
+      "path": "app/resources/sounds/audioSample.mp3",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/resources/sounds/audioSample.mp3",
+      "size": 43885,
+      "hash": "34e58acd503c6a63c86ae36bfd1f69a571365876",
+      "sri": null
+    },
+    {
+      "path": "app/resources/sounds/notify.mp3",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/resources/sounds/notify.mp3",
+      "size": 10702,
+      "hash": "06203e902b10bce5ce29ab4e63c3f134a54fa5ed",
+      "sri": null
+    },
+    {
+      "path": "app/resources/sounds/silence.mp3",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/resources/sounds/silence.mp3",
+      "size": 34560,
+      "hash": "29e5f004522b5bf3be54650c322df4e320a695fc",
+      "sri": null
+    },
+    {
+      "path": "app/resources/sounds/userJoin.mp3",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/resources/sounds/userJoin.mp3",
+      "size": 10702,
+      "hash": "06203e902b10bce5ce29ab4e63c3f134a54fa5ed",
+      "sri": null
+    },
+    {
+      "path": "app/resources/images/video-menu/icon-swap.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/resources/images/video-menu/icon-swap.svg",
+      "size": 3551,
+      "hash": "20d171aa21e17aee0edd8f06bb07278311038e1f",
+      "sri": null
+    },
+    {
+      "path": "app/resources/images/video-menu/icon-webcam-off.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/resources/images/video-menu/icon-webcam-off.svg",
+      "size": 2173,
+      "hash": "450e0ee0d663b724e7dbd921dd53424a0ab49917",
+      "sri": null
+    },
+    {
+      "path": "app/resources/images/whiteboard-cursor/ellipse.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/resources/images/whiteboard-cursor/ellipse.png",
+      "size": 926,
+      "hash": "0623a6e4204e7698c0e7513f22bf624d1d7a3c48",
+      "sri": null
+    },
+    {
+      "path": "app/resources/images/whiteboard-cursor/ellipse.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/resources/images/whiteboard-cursor/ellipse.svg",
+      "size": 3583,
+      "hash": "dfd37be48ccfefc9192155f8c637a28f33eaa286",
+      "sri": null
+    },
+    {
+      "path": "app/resources/images/whiteboard-cursor/line.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/resources/images/whiteboard-cursor/line.png",
+      "size": 336,
+      "hash": "1c7830e549b46530dcabec24cfb41e1c83ccf445",
+      "sri": null
+    },
+    {
+      "path": "app/resources/images/whiteboard-cursor/line.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/resources/images/whiteboard-cursor/line.svg",
+      "size": 3665,
+      "hash": "869b4ebd67c9d980ef816a8fbad7c6dce08ae664",
+      "sri": null
+    },
+    {
+      "path": "app/resources/images/whiteboard-cursor/pan-closed.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/resources/images/whiteboard-cursor/pan-closed.png",
+      "size": 605,
+      "hash": "cb2e6f5dbb70704ae77f202ea05704f74a541f2e",
+      "sri": null
+    },
+    {
+      "path": "app/resources/images/whiteboard-cursor/pan-closed.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/resources/images/whiteboard-cursor/pan-closed.svg",
+      "size": 2843,
+      "hash": "b06e98de1799f9cf0ed3403633e486f7d00be7cb",
+      "sri": null
+    },
+    {
+      "path": "app/resources/images/whiteboard-cursor/pan.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/resources/images/whiteboard-cursor/pan.png",
+      "size": 919,
+      "hash": "0d995965001c2c46448fa323edd29725cc73cae4",
+      "sri": null
+    },
+    {
+      "path": "app/resources/images/whiteboard-cursor/pan.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/resources/images/whiteboard-cursor/pan.svg",
+      "size": 1493,
+      "hash": "86e4d29c89203ba26cd061305795e467b5baa3f1",
+      "sri": null
+    },
+    {
+      "path": "app/resources/images/whiteboard-cursor/pencil.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/resources/images/whiteboard-cursor/pencil.png",
+      "size": 850,
+      "hash": "a4a72af3efeb0993e29ffd5a928e8c083c01d8eb",
+      "sri": null
+    },
+    {
+      "path": "app/resources/images/whiteboard-cursor/pencil.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/resources/images/whiteboard-cursor/pencil.svg",
+      "size": 6791,
+      "hash": "87c25f73427e655f107e7a71e126349dc2144776",
+      "sri": null
+    },
+    {
+      "path": "app/resources/images/whiteboard-cursor/square.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/resources/images/whiteboard-cursor/square.png",
+      "size": 345,
+      "hash": "bab7ee3e77cdadacae5307251a03888f80e05da5",
+      "sri": null
+    },
+    {
+      "path": "app/resources/images/whiteboard-cursor/square.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/resources/images/whiteboard-cursor/square.svg",
+      "size": 3564,
+      "hash": "7d0218eb8bbd5a830faa3617bc5d0ea014ee52c7",
+      "sri": null
+    },
+    {
+      "path": "app/resources/images/whiteboard-cursor/text.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/resources/images/whiteboard-cursor/text.png",
+      "size": 621,
+      "hash": "a221539b67014adb77fb44ccb7aba7b685aae907",
+      "sri": null
+    },
+    {
+      "path": "app/resources/images/whiteboard-cursor/text.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/resources/images/whiteboard-cursor/text.svg",
+      "size": 9397,
+      "hash": "88fd3bd12e9802804fa03cbdf9aecc3b89197c97",
+      "sri": null
+    },
+    {
+      "path": "app/resources/images/whiteboard-cursor/triangle.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/resources/images/whiteboard-cursor/triangle.png",
+      "size": 939,
+      "hash": "3a43a08c457c522704265019fe7cacdab2de419b",
+      "sri": null
+    },
+    {
+      "path": "app/resources/images/whiteboard-cursor/triangle.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/resources/images/whiteboard-cursor/triangle.svg",
+      "size": 3633,
+      "hash": "e5a4e10cc4fbb331dd0530883b500291c460e484",
+      "sri": null
+    },
+    {
+      "path": "head.html",
+      "where": "internal",
+      "type": "head",
+      "hash": "1bb53d810cf017ddf1ef3e307a05e5400aca775f"
+    },
+    {
+      "path": "body.html",
+      "where": "internal",
+      "type": "body",
+      "hash": "9349e591743861e94a8e375556daf92a43567e3f"
+    }
+  ]
+}
